@@ -1,6 +1,6 @@
 
 server:
-  port: 3000
+  port: 9527
 spring:
   application:
     name: zuul-server

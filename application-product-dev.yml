@@ -6,6 +6,6 @@ spring:
     name: product-service
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql:///taobap_product?useUnicode=true&characterEncoding=utf8
+    url: jdbc:mysql:///taobao_product?useUnicode=true&characterEncoding=utf8
     username: root
     password: root
